@@ -4,9 +4,11 @@ Heather Wilde Renze is a prominent figure in the tech industry with over 20 year
 
 ### 🌐 Find me on:
 - [Instagram](https://www.instagram.com/heathriel)
+- [Youtube](https://www.youtube.com/heathriel)
 - [Twitter](https://www.twitter.com/heathriel)
-- [Facebook](https://www.facebook.com/heatherwilde)
-- [Website](https://www.roceteer.com)
+- [Linkedin](https://www.linkedin.com/in/heatherwilde)
+- [Facebook](https://www.facebook.com/heathriel)
+- [Website](https://www.heathriel.com)
 
 ### 🏆 Awards and Recognitions:
 - Mentor/Coach of the Year
@@ -40,3 +42,9 @@ Heather Wilde Renze is a prominent figure in the tech industry with over 20 year
 - University of Alabama, Huntsville (Aerospace Engineering)
 - St. John's College, Annapolis (Bachelor's degree in Liberal Arts)
 - Clare College, Cambridge University (Advanced studies in Medieval British Literature)
+
+![Heather's GitHub stats](https://github-readme-stats.vercel.app/api?username=heathriel&show_icons=true&theme=transparent)
+
+## My Digital Footprint
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
