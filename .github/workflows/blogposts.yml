@@ -1,0 +1,27 @@
+name: Blog post workflow
+on:
+  schedule:
+    # Runs every day at 3pm UTC (11pm SG)
+    - cron: '0 15 * * *'
+
+jobs:
+  pull_blog_rss:
+    name: Update with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Get RSS Feed
+        uses: kohrongying/readme-the-rss@master
+        with:
+          feed_url: hhttps://authory.com/HeatherWilde/rss?collection=All-Content-cd77bf2d465e64d1aa9cd6e2263574de0
+          count: 6 # default 5
+      - name: Commit file changes
+        run: |
+            git config --global user.name 'heathriel'
+            git config --global user.email 'heathriel@gmail.com'
+            git add .
+            git diff --quiet --cached || git commit -m "Update README"    
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.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 }}
