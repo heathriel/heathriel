@@ -3,6 +3,7 @@
 Heather Wilde Renze is a prominent figure in the tech industry with over 20 years of experience spanning various sectors. A renowned "Unicorn Whisperer," she authored a book chronicling part of her journey at Evernote as it expanded from a few thousand to 100 million users across nine countries and 48 languages. She has an extensive educational background and a resume filled with achievements, speaking to her dedication in empowering individuals through technology and education.
 
 ### 🌐 Find me on:
+- [Bluesky](https://bsky.app/profile/heathriel.bsky.social)
 - [Twitter](https://www.twitter.com/heathriel)
 - [Linkedin](https://www.linkedin.com/in/heatherwilde)
 - [Sessionize](https://sessionize.com/heatherwilde/)
