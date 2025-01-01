@@ -40,6 +40,7 @@ Heather Wilde Renze is a prominent figure in the tech industry with over 20 year
 - Continue her mentorship and advisory roles
 - Write more books sharing her knowledge and insights
 - Remain a significant contributor to the evolution of the tech industry
+- Help promote an [ethical AI framwork](https://github.com/heathriel/ai-safety-resources) for the future of humanity
 
 ### 📚 Education:
 - University of Alabama, Huntsville (Aerospace Engineering)
